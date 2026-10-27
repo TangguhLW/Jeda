@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.git/
+.env
+.env.*
+tests/
+test-results/
+reference-pack/
+evidence/
+recordings/
+server/*.test.mjs
+record-*.mjs
+verify-*.mjs
+README.md
+deployment/

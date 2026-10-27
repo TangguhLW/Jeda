@@ -1,0 +1,19 @@
+node_modules/
+dist/
+test-results/
+.env
+.env.*
+!.env.example
+.vercel/
+deployment/
+
+# Local secrets and generated artifacts
+.env
+.env.local
+.env.*.local
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+node_modules/
